@@ -27,7 +27,7 @@
 
 ## Usage
   
-  - GET URL: http://3.12.169.208:2001/api/location/:listingId
+  - GET URL: http://localhost:2001/api/location/:listingId
   - GET Endpoint: /api/location/:listingId
 
     Sample Output: 
