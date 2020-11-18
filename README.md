@@ -66,8 +66,8 @@
 ## Installation and Setup
 
 Setting up config.js file
-  -add key
-  -change file name from config_copy.js to config.js
+  - add key
+  - change file name from config_copy.js to config.js
   
 From within the root directory:
 
